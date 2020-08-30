@@ -1,0 +1,1 @@
+wakeupcvweb: gunicorn myproject.wsgi
