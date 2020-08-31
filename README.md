@@ -1,6 +1,6 @@
 # WakeUP-ComputerVision
 
-**This is a sample computer vision project is done for learning purpose for drowsiness detection in the human face. The front end is built using Django and the back end has been fed with various deep learning libraries such as OpenCV, Keras, and Pygame.** 
+**WakeUp is a computer vision project done for learning purpose of drowsiness detection in the human face. The front end is built using Django and the back end has been fed with various deep learning libraries such as OpenCV, Keras, and Pygame.** 
 
 
 [![Capture.png](https://i.postimg.cc/RV1vgMH4/Capture.png)](https://postimg.cc/qzRfRHw5)
